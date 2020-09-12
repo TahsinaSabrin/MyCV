@@ -1,0 +1,135 @@
+*{
+margin: 0;
+padding: 0;
+}
+body{
+
+    background-color: wheat;
+    font-family: Arial, Helvetica, sans-serif
+
+}
+.container{
+    max-width: 1000px;
+    background-color: rgb(214, 236, 236);
+    margin: 0 auto;
+    padding: 20px;
+    
+    
+}
+
+
+.proimg{
+    height: 120px;
+    width:100px;
+    border: 2px solid white;
+    border-radius: 50%;
+    float: left;
+}
+.divclass{
+
+float: left;
+    
+}
+
+h1,h2,h3,h4,h5,h6{
+color: teal;
+
+
+}
+.divclass2{
+   
+    color: teal;
+    float: right;
+     
+}
+.divclass2 a{
+    text-decoration: none;
+    color: teal;
+    
+    font-weight:bold;
+}
+.divclass2 a:hover{
+    
+text-decoration: underline;
+color: violet;
+
+}
+.div-clear{
+    clear: both;
+
+}
+hr{
+    border: solid rgb(84, 92, 11) 6px;
+}
+
+.perdiv2 p{
+    color: teal;
+}
+
+
+
+
+}
+.personaldiv{}
+.perdiv1{
+    width: 30%;
+    
+
+    float:left ;
+}
+
+.perdiv2{
+    
+    width:70%;
+  float: right;
+
+}
+.commonhr{
+
+    border:solid rgb(84, 92, 11) 2px;
+    border-bottom: none;
+    width:100%;
+    margin: 60px auto;
+}
+#Worklsection{}
+
+#keySection{}
+#eduSection{}
+#graduationdiv{
+    float: left;
+    width: 40%;
+}
+#HSCdiv{
+    float: left;
+    width: 30%;
+}
+#SSCdiv{
+    float: right;
+    width: 30%;
+
+}
+
+#ReferenceSection{}
+
+.footerId{
+
+   background-color: black;
+   text-align: center;
+   padding: 15px;
+}
+.footerId a{
+    color:white;
+    text-decoration: none;
+    
+
+}
+.footerId p{
+    color:white;
+    text-decoration: none;
+    margin-top: 20px;;
+
+}
+.container personaldiv perdiv2 p{
+
+   color:teal;
+}
